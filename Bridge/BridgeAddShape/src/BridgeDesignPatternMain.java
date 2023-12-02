@@ -1,5 +1,6 @@
 public class BridgeDesignPatternMain {
     public static void main(String[] args) throws Exception {
+        // tet
         Shape s1=new Triangle(new RedColor());
         s1.colorIt();
         Shape s2=new Circle(new BlueColor());
